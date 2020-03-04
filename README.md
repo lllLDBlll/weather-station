@@ -6,9 +6,25 @@ pi3 for iFSC
 ## Requisitos do Projeto
 **Basic:**
 
+- Monitoramento dos seguintes parâmetros:
+  - Temperatura
+  - Umidade relativa do ar
+  - Pressão atmosférica do ar
+  - Velocidade e Direção do vento
+  - Precipitação da chuva
+  - Umidade do solo
+
+- Carregamento por Energia Solar
+
 **Plus:**
+- Aplicativo Mobile para Android/iOS
+- Qualidade do Ar (gases)
+- Luz
+- Posicionamento via Satélite (GPS)
 
 ## Hardware
+
+Pressure Sensor:
 
 ## Schedule
 
@@ -36,3 +52,10 @@ Definição de Projeto
 ### June 24, 2020 (Week 20)
 ### July 1, 2020 (Week 21)
 ### July 8, 2020 (Week 22)
+
+- Obs: Dividir em dois texto ou mais texto explicativos, em portugues e em inglês.
+- Notion para organização de textos e cronograma (retirar do git)
+- Organizar 'planilha' de planejamento
+- Custos e Equipamentos
+- Diagrama de blocos do processo
+- Esquemático, Circuito elétrico e código
